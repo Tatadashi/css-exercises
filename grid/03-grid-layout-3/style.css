@@ -31,6 +31,10 @@
   align-items: center;
 }
 
+.logo {
+  justify-self: start;
+}
+
 .menu ul {
   grid-area: header;
   display: grid;
